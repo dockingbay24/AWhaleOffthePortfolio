@@ -2,7 +2,7 @@
 FINTECH Unit 4 Homework Assignment: A Whale Off the Port(folio)
 
 
-![alt text](https://github.com/dockingbay24/AWhaleOffthePortfolio/blob/main/chart-gf33997950_1920.jpg "algorithmic trading strategies")
+![alt text](https://github.com/dockingbay24/AWhaleOffthePortfolio/blob/main/Images/chart-gf33997950_1920.jpg "algorithmic trading strategies")
 
 
 ## Background
